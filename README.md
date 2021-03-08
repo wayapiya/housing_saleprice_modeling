@@ -4,7 +4,7 @@ In this project, I will be evaluating different housing features like "bathroom 
 
 ## Data
 
-The data given consisted of 2 datasets with roughly 80 unique features that are both numerical and categorical. Only one of the 2 datsets contain the SalePrice column, which contains the price of the house. That dataset will be used as a model to predict the price of the house in the second dataset.
+The data given consisted of 2 datasets with roughly 80 unique features that are both numerical and categorical. Only one of the 2 datasets contain the SalePrice column, which contains the price of the house. That dataset will be used as a model to predict the price of the house in the second dataset.
 
 ## Process
 
