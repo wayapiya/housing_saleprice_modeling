@@ -17,7 +17,7 @@ Once the quality features were defined we can create an optimized model, in whic
 ## Evaluation of the features / Business Recommendation
 ### Product model: Ridge model with 55 most impactful features (dummies included)
 Due to the quality of the features, none of them were zeroes out.
-The Models that came before this one were overfitting and underfitting. This model was the most obtimal out of all my models. This is due to the 55 features (dummy features included) which is not a overwhelming amount of variance. This model perform well on unseen data since the 55 features were filtered as the most possitively impactful features (None was zeroed out).
+The Models that came before this one were overfitting and underfitting. This model was the most optimal out of all my models. This is due to the 55 features (dummy features included) which is not a overwhelming amount of variance. This model perform well on unseen data since the 55 features were filtered as the most possitively impactful features (None was zeroed out).
 The features that relates to sizing (size of the living space, lot, garage, etc.), quality and condition (in excellent quality), location (neighborhood), and age has the highest impact on the price of the house
 Age being the most negatively impacting the price of the house. With an increase in only 1 year of age, the price of the house would roughly drop by USD 10,000.
 As a homeowner looking to improve the price of a house, making changes to the quality of the interior takes priority. For example, ensuring that the quality of the kitchen is excellent will roughtly drive the price of your house by USD 5600.
