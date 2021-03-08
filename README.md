@@ -11,7 +11,7 @@ The data given consisted of 2 datasets with roughly 80 unique features that are 
 The process will start off with assessing null values within the data, and outliers that may negatively impact the quality of our models.
 Creating additional features, such as age and total living space, that may increase the accuracy of our model's prediction
 LinearRegression, Lasso, Elastic, and Ridge models will be created and evaluated in this project. The first sets of models used features that have the highest correlation with the price of the house. This model was decent but underfitting.
-To counter the high bias, low variance problem from he first sets of models, models that contained large amount of features were made. Using lasso and Elastic models, we can determine the quality of each features. Ones that are negatively impacting out model will be zeroed out.
+To counter the high bias, low variance problem from he first sets of models, models that contained large amount of features were made. Using lasso and Elastic models, we can determine the quality of each features. Ones that are negatively impacting our models' quality will be zeroed out.
 Once the quality features were defined we can create an optimized model, in which did not contain too high or too low variance. Additionally, it perform decently well on unseen data. 
 
 ## Evaluation of the features / Business Recommendation
